@@ -34,3 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+Plugin/src/main/java/com/sonelli/juicessh/auditlog/MainActivity.java         .Plugin/src/main/res/menu/main.xml
